@@ -1,0 +1,482 @@
+[
+  {
+    "desc": "Cone with base radius 2 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 58.643062867009476
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cone with base radius 4 and height 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from 0 to 3 - r, integrand = r",
+    "volume": 16.755160819145566
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 9 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from -2 to 1, integrand = r",
+    "volume": 84.82300164692441
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -2 and z = 2",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -2 to 2, integrand = r",
+    "volume": 201.06192982974676
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 9",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Cone with base radius 2 and height 4",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r, integrand = r",
+    "volume": 33.51032163829113
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 9 bounded between z = -3 and z = 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from -3 to 3, integrand = r",
+    "volume": 169.64600329384882
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 1 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 1, \u03b8 from 0 to 2\u03c0, z from -1 to 1, integrand = r",
+    "volume": 6.283185307179586
+  },
+  {
+    "desc": "Cone with base radius 4 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 167.55160819145564
+  },
+  {
+    "desc": "Ellipsoid x^2/25 + y^2/16 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/9 + z^2/4 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/4 + z^2/4 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 25",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Cone with base radius 3 and height 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from 0 to 3 - r, integrand = r",
+    "volume": 28.274333882308138
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 9 bounded between z = -3 and z = 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from -3 to 3, integrand = r",
+    "volume": 169.64600329384882
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -1 to 1, integrand = r",
+    "volume": 100.53096491487338
+  },
+  {
+    "desc": "Cone with base radius 4 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 167.55160819145564
+  },
+  {
+    "desc": "Cone with base radius 1 and height 5",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 1, \u03b8 from 0 to 2\u03c0, z from 0 to 5 - r, integrand = r",
+    "volume": 13.61356816555577
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 9",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 4",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 2, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 16.755160819145566
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -2 to 1, integrand = r",
+    "volume": 150.79644737231007
+  },
+  {
+    "desc": "Cone with base radius 3 and height 4",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r, integrand = r",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Cone with base radius 3 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 113.09733552923255
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/4 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 4 bounded between z = -2 and z = 2",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from -2 to 2, integrand = r",
+    "volume": 50.26548245743669
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 16",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 4, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 134.04128655316453
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 1 bounded between z = -2 and z = 2",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 1, \u03b8 from 0 to 2\u03c0, z from -3 to 2, integrand = r",
+    "volume": 15.707963267948966
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -3 and z = 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -3 to 3, integrand = r",
+    "volume": 301.59289474462014
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 4 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from -2 to 1, integrand = r",
+    "volume": 37.69911184307752
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Ellipsoid x^2/16 + y^2/9 + z^2/9 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 4, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 134.04128655316453
+  },
+  {
+    "desc": "Cone with base radius 1 and height 4",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 1, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r, integrand = r",
+    "volume": 10.471975511965978
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -2 to 1, integrand = r",
+    "volume": 150.79644737231007
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 9",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cone with base radius 3 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 113.09733552923255
+  },
+  {
+    "desc": "Cone with base radius 1 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 1, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 16.755160819145566
+  },
+  {
+    "desc": "Ellipsoid x^2/16 + y^2/4 + z^2/4 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 4, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 134.04128655316453
+  },
+  {
+    "desc": "Cone with base radius 2 and height 5",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 5 - r, integrand = r",
+    "volume": 46.076692252650304
+  },
+  {
+    "desc": "Cone with base radius 4 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 167.55160819145564
+  },
+  {
+    "desc": "Cone with base radius 2 and height 5",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 5 - r, integrand = r",
+    "volume": 46.076692252650304
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 4 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from -2 to 1, integrand = r",
+    "volume": 37.69911184307752
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 25",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Cone with base radius 1 and height 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 1, \u03b8 from 0 to 2\u03c0, z from 0 to 3 - r, integrand = r",
+    "volume": 7.3303828583761845
+  },
+  {
+    "desc": "Cone with base radius 2 and height 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 3 - r, integrand = r",
+    "volume": 20.943951023931955
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/4 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 4 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from -1 to 1, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Ellipsoid x^2/25 + y^2/9 + z^2/9 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -3 and z = 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -3 to 3, integrand = r",
+    "volume": 301.59289474462014
+  },
+  {
+    "desc": "Ellipsoid x^2/25 + y^2/9 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/4 + z^2/4 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 9",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 16 bounded between z = -3 and z = 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from -3 to 3, integrand = r",
+    "volume": 301.59289474462014
+  },
+  {
+    "desc": "Cone with base radius 4 and height 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from 0 to 3 - r, integrand = r",
+    "volume": 16.755160819145566
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 4",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 2, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 16.755160819145566
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 9",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Cone with base radius 4 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 4, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 167.55160819145564
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 25",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Ellipsoid x^2/16 + y^2/16 + z^2/9 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 4, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 134.04128655316453
+  },
+  {
+    "desc": "Upper hemisphere of the sphere x^2 + y^2 + z^2 = 4",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 2, \u03b8 from 0 to 2\u03c0, \u03c6 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03c6)",
+    "volume": 16.755160819145566
+  },
+  {
+    "desc": "Cone with base radius 3 and height 6",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from 0 to 6 - r, integrand = r",
+    "volume": 113.09733552923255
+  },
+  {
+    "desc": "Cone with base radius 3 and height 3",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from 0 to 3 - r, integrand = r",
+    "volume": 28.274333882308138
+  },
+  {
+    "desc": "Ellipsoid x^2/25 + y^2/4 + z^2/4 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 5, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 261.79938779914943
+  },
+  {
+    "desc": "Ellipsoid x^2/16 + y^2/9 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 4, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 134.04128655316453
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/4 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Ellipsoid x^2/9 + y^2/4 + z^2/16 = 1",
+    "coord": "spherical",
+    "integral": "\u03c1 from 0 to 3, \u03c6 from 0 to 2\u03c0, \u03b8 from 0 to \u03c0/2, integrand = \u03c1^2 sin(\u03b8)",
+    "volume": 56.548667764616276
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Volume under paraboloid z = 4 - x^2 - y^2 and above xy-plane",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 2, \u03b8 from 0 to 2\u03c0, z from 0 to 4 - r^2, integrand = r",
+    "volume": 25.132741228718345
+  },
+  {
+    "desc": "Cylinder x^2 + y^2 = 9 bounded between z = -1 and z = 1",
+    "coord": "cylindrical",
+    "integral": "r from 0 to 3, \u03b8 from 0 to 2\u03c0, z from -1 to 1, integrand = r",
+    "volume": 56.548667764616276
+  }
+]
