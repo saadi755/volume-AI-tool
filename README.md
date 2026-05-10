@@ -5,28 +5,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Demo](#demo)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-  - [Feature Extraction](#1-feature-extraction)
-  - [ML Model Training](#2-ml-model-training)
-  - [Coordinate System Suggestion](#3-coordinate-system-suggestion)
-  - [Integral Verification](#4-integral-verification)
-  - [Volume Estimation](#5-volume-estimation)
-  - [3D Visualization](#6-3d-visualization)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Limitations & Future Work](#limitations--future-work)
-- [License](#license)
-
----
-
 ## Overview
 
 The **Volume AI Tool** automates a core multivariable calculus task: determining the most appropriate coordinate system (rectangular, cylindrical, or spherical) for computing triple integrals over 3D regions. It combines:
